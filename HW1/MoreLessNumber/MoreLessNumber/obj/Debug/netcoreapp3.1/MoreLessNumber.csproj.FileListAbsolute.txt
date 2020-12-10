@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\bin\Debug\netcoreapp3.1\MoreLessNumber.exe
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\bin\Debug\netcoreapp3.1\MoreLessNumber.deps.json
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\bin\Debug\netcoreapp3.1\MoreLessNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\bin\Debug\netcoreapp3.1\MoreLessNumber.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\bin\Debug\netcoreapp3.1\MoreLessNumber.dll
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\bin\Debug\netcoreapp3.1\MoreLessNumber.pdb
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.dll
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.pdb
+C:\Users\Admin\Desktop\HW_PM\HW1\MoreLessNumber\MoreLessNumber\obj\Debug\netcoreapp3.1\MoreLessNumber.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Py6f/NO3/V39bzY9zSY5YLIXfgy/yfdUd3ID1hMVZAq6I2Th3xLgko3Ez4KvrLn+LSYVgenFaY2CKOQMciv2JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\HW_PM\\HW1\\my_first_homework\\my_first_homework\\my_first_homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

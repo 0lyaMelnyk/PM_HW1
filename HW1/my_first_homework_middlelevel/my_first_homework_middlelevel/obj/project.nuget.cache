@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGK3aeFxqE5gxgLxO3WmuPxjwp8DTBs7dXo6x/45CSVew44zq7s305LLvQt64aftZeUj8Ird1MTZglFQz0MJvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\HW_PM\\HW1\\my_first_homework_middlelevel\\my_first_homework_middlelevel\\my_first_homework_middlelevel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

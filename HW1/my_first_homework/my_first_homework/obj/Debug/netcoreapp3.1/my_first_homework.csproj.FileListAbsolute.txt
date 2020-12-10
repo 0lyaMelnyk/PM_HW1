@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\bin\Debug\netcoreapp3.1\my_first_homework.exe
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\bin\Debug\netcoreapp3.1\my_first_homework.deps.json
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\bin\Debug\netcoreapp3.1\my_first_homework.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\bin\Debug\netcoreapp3.1\my_first_homework.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\bin\Debug\netcoreapp3.1\my_first_homework.dll
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\bin\Debug\netcoreapp3.1\my_first_homework.pdb
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.dll
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.pdb
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework\my_first_homework\obj\Debug\netcoreapp3.1\my_first_homework.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\bin\Debug\netcoreapp3.1\my_first_homework_middlelevel.exe
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\bin\Debug\netcoreapp3.1\my_first_homework_middlelevel.deps.json
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\bin\Debug\netcoreapp3.1\my_first_homework_middlelevel.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\bin\Debug\netcoreapp3.1\my_first_homework_middlelevel.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\bin\Debug\netcoreapp3.1\my_first_homework_middlelevel.dll
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\bin\Debug\netcoreapp3.1\my_first_homework_middlelevel.pdb
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.dll
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.pdb
+C:\Users\Admin\Desktop\HW_PM\HW1\my_first_homework_middlelevel\my_first_homework_middlelevel\obj\Debug\netcoreapp3.1\my_first_homework_middlelevel.genruntimeconfig.cache
